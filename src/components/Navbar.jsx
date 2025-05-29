@@ -148,10 +148,10 @@ const Navbar = ({ sections }) => {
                       open: { opacity: 1, y: 0 },
                       closed: { opacity: 0, y: 20 },
                     }}
-                  >
+                  ><br/>
                     <a
                       href={`#${section.id}`}
-                      className={`block text-2xl font-semibold transition-colors duration-300 ${
+                      className={`block text-2xl font-semibold transition-colors duration-300 text-center ${
                         activeSection === section.id ? 'text-accent-blue' : 'text-primary-text'
                       }`}
                       onClick={(e) => {
