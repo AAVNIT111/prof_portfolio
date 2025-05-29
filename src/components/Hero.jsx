@@ -12,7 +12,10 @@ const Hero = ({ data }) => {
           initial={{ opacity: 0, x: -50 }}
           animate={{ opacity: 1, x: 0 }}
           transition={{ duration: 0.8 }}
-        >
+        ><h1 className="text-4xl md:text-5xl lg:text-6xl font-bold mb-4 ">
+             <br />
+            <span className="text-accent-blue"></span>
+          </h1>
           <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold mb-4">
             Hello, I'm <br />
             <span className="text-accent-blue">{data.name}</span>

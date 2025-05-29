@@ -53,10 +53,15 @@ function App() {
   ].filter(section => section.id === 'hero' || (section.data && (Array.isArray(section.data) ? section.data.length > 0 : true)));
 
   return (
+    
     <div className="min-h-screen relative">
       <Navbar sections={sections} />
       
       <main>
+
+        
+
+      
         <Hero data={personalData} />
         
         <Education education={personalData.education} />
