@@ -40,6 +40,47 @@ const personalData = {
       // description: "Minor in Mathematics"
     }
   ],
+    // Course Materials
+  courseMaterials: [
+    {
+      title: "Introduction to Machine Learning in Healthcare",
+      description: "A comprehensive course covering the fundamentals of ML applications in healthcare",
+      thumbnail: "https://images.pexels.com/photos/4226140/pexels-photo-4226140.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      materials: [
+        {
+          title: "Course Slides",
+          link: "https://example.com/slides"
+        },
+        {
+          title: "Lecture Videos",
+          link: "https://example.com/videos"
+        },
+        {
+          title: "Programming Assignments",
+          link: "https://example.com/assignments"
+        }
+      ]
+    },
+    {
+      title: "Advanced Neural Networks",
+      description: "Deep dive into neural network architectures and their applications",
+      thumbnail: "https://images.pexels.com/photos/8386440/pexels-photo-8386440.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      materials: [
+        {
+          title: "Video Lectures",
+          link: "https://example.com/lectures"
+        },
+        {
+          title: "Course Notes",
+          link: "https://example.com/notes"
+        },
+        {
+          title: "Research Papers",
+          link: "https://example.com/papers"
+        }
+      ]
+    }
+  ],
    // Publications
   publications: [
     {

@@ -10,7 +10,7 @@ import Research from './components/Research';
 import Patents from './components/Patents';
 import Projects from './components/Projects';
 import Publications from './components/Publications';
-import Awards from './components/Awards';
+import CourseMaterials from './components/CourseMaterials';
 import Footer from './components/Footer';
 
 // Data
@@ -45,36 +45,31 @@ function App() {
     { id: 'hero', title: 'Home' },
     { id: 'education', title: 'Education', data: personalData.education },
     { id: 'publications', title: 'Publications', data: personalData.publications },
-    { id: 'awards', title: 'Awards', data: personalData.awards },
     { id: 'research', title: 'Research', data: personalData.researchInterests },
     { id: 'patents', title: 'Patents', data: personalData.patents },
     { id: 'projects', title: 'Projects', data: personalData.projects },
+    { id: 'courses', title: 'Courses', data: personalData.courseMaterials },
     { id: 'contact', title: 'Contact', data: personalData.contact }
   ].filter(section => section.id === 'hero' || (section.data && (Array.isArray(section.data) ? section.data.length > 0 : true)));
 
   return (
-    
     <div className="min-h-screen relative">
       <Navbar sections={sections} />
       
       <main>
-
-        
-
-      
         <Hero data={personalData} />
         
         <Education education={personalData.education} />
         
         <Publications publications={personalData.publications} />
         
-        <Awards awards={personalData.awards} />
-        
         <Research researchInterests={personalData.researchInterests} />
         
         <Patents patents={personalData.patents} />
         
         <Projects projects={personalData.projects} />
+        
+        <CourseMaterials courseMaterials={personalData.courseMaterials} />
         
         <Contact contact={personalData.contact} />
       </main>
