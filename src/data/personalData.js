@@ -38,7 +38,7 @@ const personalData = {
       year: "2011",
       
       // description: "Minor in Mathematics"
-    }
+    },
   ],
     // Course Materials
   courseMaterials: [
@@ -92,7 +92,7 @@ const personalData = {
     pages: "4168–4194",
     year: "2017",
     doi: "10.1109/JLT.2017.2753662"
-  }
+  },
 
 ],
 
@@ -142,7 +142,7 @@ const personalData = {
     {
       title: "Information theoretical aspct of wiress communication systems",
       // description: "--"
-    }
+    },
   ],
   
   // Patents
