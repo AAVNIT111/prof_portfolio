@@ -3,7 +3,7 @@
 
 const personalData = {
   // Basic Information
-  name: "Dr. Amit Agrawal",
+  name: "Dr. Amit Agarwal",
   jobTitle: "Assistant Professor",
   photo: "https://vnit.ac.in/engineering/ece/wp-content/uploads/2023/06/Amit-Agrawal.jpg", // Replace with your photo URL
   bio: "I am an Assistant Professor in the Department of Electronics and Communication Engineering at VNIT Nagpur, India. I received my B.Tech from NIT Kurukshetra in 2011, and my M.Tech and Ph.D. from IIT Delhi in 2014 and 2019, respectively. My research interests include visible light communication, wireless communication theory, 5G/B5G systems, and cooperative networks. I have previously worked as an Assistant Professor at LNMIIT Jaipur and as a Post-Doctoral Researcher at the University of Cyprus, where I was part of the EU project PRIME.",
@@ -113,7 +113,7 @@ const personalData = {
       // issue: "3",
       year: "2019",
       doi: "10.1109/TCOMM.2019.2899866",
-      abstract: "Impact factor: 5.6 - 5.9. This paper investigates the rate region of the zero-forcing (ZF) precoder in a two-user optical intensity modulation with direct detection (IM/DD) channel, providing a comprehensive analysis of its performance."
+    //  abstract: "Impact factor: 5.6 - 5.9. This paper investigates the rate region of the zero-forcing (ZF) precoder in a two-user optical intensity modulation with direct detection (IM/DD) channel, providing a comprehensive analysis of its performance."
     },
   
 {
@@ -124,7 +124,7 @@ const personalData = {
   article: "102317",
   year: "2024",
   doi: "10.1016/j.phycom.2024.102317",
-  abstract: "This paper investigates the transmitter design and achievable energy–rate (AE–AR) region for non-orthogonal multiple access (NOMA) systems in underwater optical wireless communication (UWOC) networks with simultaneous lightwave information and power transfer (SLIPT). The study considers uniformly distributed messages and interference-aware successive interference cancellation (Imp-SIC).",
+//  abstract: "This paper investigates the transmitter design and achievable energy–rate (AE–AR) region for non-orthogonal multiple access (NOMA) systems in underwater optical wireless communication (UWOC) networks with simultaneous lightwave information and power transfer (SLIPT). The study considers uniformly distributed messages and interference-aware successive interference cancellation (Imp-SIC).",
 },
 {
   title: "Fairness-Driven Optimization for NOMA-UWOC Systems With Energy Harvesting Requirements",
@@ -132,14 +132,14 @@ const personalData = {
   journal: "IEEE Journal of Oceanic Engineering",
   year: "2025",
   doi: "10.1109/JOE.2025.1234567",
-  abstract: "This paper explores the fairness-driven optimization of non-orthogonal multiple access (NOMA) systems in underwater optical wireless communication (UWOC) networks with energy harvesting requirements. The study aims to enhance system performance by optimizing resource allocation strategies, considering both fairness and energy harvesting constraints.",
+//  abstract: "This paper explores the fairness-driven optimization of non-orthogonal multiple access (NOMA) systems in underwater optical wireless communication (UWOC) networks with energy harvesting requirements. The study aims to enhance system performance by optimizing resource allocation strategies, considering both fairness and energy harvesting constraints.",
 },
 {
   title: "Amplitude Detection over Generalized Fading Models: An Asymptotic Approach",
   authors: "A. Agarwal, C. Psomas, I. Krikidis",
   journal: "European Signal Processing Conference (EUSIPCO)",
   year: "2022",
-  abstract: "This paper provides an asymptotic analysis of amplitude detection in communication systems operating over generalized fading channels. The study offers insights into the performance limits and design considerations for such systems.",
+//  abstract: "This paper provides an asymptotic analysis of amplitude detection in communication systems operating over generalized fading channels. The study offers insights into the performance limits and design considerations for such systems.",
 },
 {
   title: "Strategic Analysis of Uplink URLLC Traffic Impact on eMBB Efficiency in Next-Generation 5G Networks",
@@ -147,7 +147,7 @@ const personalData = {
   journal: "2024 Second International Conference on Computational and Characterization Techniques (ICCT)",
   year: "2024",
   doi: "10.1109/ICCT.2024.1234567",
-  abstract: "This paper analyzes the impact of uplink ultra-reliable low-latency communication (URLLC) traffic on the efficiency of enhanced mobile broadband (eMBB) services in next-generation 5G networks. The study provides strategic insights into resource management and network design.",
+//  abstract: "This paper analyzes the impact of uplink ultra-reliable low-latency communication (URLLC) traffic on the efficiency of enhanced mobile broadband (eMBB) services in next-generation 5G networks. The study provides strategic insights into resource management and network design.",
 },
 {
   title: "Transmitter Design and AE–AR Region Characterization for NOMA-SLIPT UWOC Systems with Uniformly Distributed Message and Imp-SIC",
@@ -157,7 +157,7 @@ const personalData = {
   article: "102317",
   year: "2024",
   doi: "10.1016/j.phycom.2024.102317",
-  abstract: "This paper investigates the transmitter design and achievable energy–rate (AE–AR) region for non-orthogonal multiple access (NOMA) systems in underwater optical wireless communication (UWOC) networks with simultaneous lightwave information and power transfer (SLIPT). The study considers uniformly distributed messages and interference-aware successive interference cancellation (Imp-SIC).",
+//  abstract: "This paper investigates the transmitter design and achievable energy–rate (AE–AR) region for non-orthogonal multiple access (NOMA) systems in underwater optical wireless communication (UWOC) networks with simultaneous lightwave information and power transfer (SLIPT). The study considers uniformly distributed messages and interference-aware successive interference cancellation (Imp-SIC).",
 },
    
   {
@@ -166,7 +166,7 @@ const personalData = {
     journal: "IEEE Conference Publication",
     year: "2018",
     doi: "10.1109/NCC.2018.8599981",
-    abstract: "This paper examines the impact of underlaid multi-antenna device-to-device (D2D) communications on the cellular downlink in massive multiple-input multiple-output (MIMO) systems. The study analyzes the average per-user spectral efficiency of cellular users as a function of the D2D area spectral efficiency, revealing that increasing the density of D2D transmitters can enhance the spectral efficiency of cellular users, approaching a fundamental limit as the density increases.",
+ //   abstract: "This paper examines the impact of underlaid multi-antenna device-to-device (D2D) communications on the cellular downlink in massive multiple-input multiple-output (MIMO) systems. The study analyzes the average per-user spectral efficiency of cellular users as a function of the D2D area spectral efficiency, revealing that increasing the density of D2D transmitters can enhance the spectral efficiency of cellular users, approaching a fundamental limit as the density increases.",
   },
   {
     title: "Energy-Efficient UOWC-RF Systems with SLIPT",
@@ -177,7 +177,7 @@ const personalData = {
     article: "e4889",
     year: "2024",
     doi: "10.1002/ett.4889",
-    abstract: "This paper investigates the energy efficiency of underwater optical wireless communication (UOWC) systems integrated with simultaneous lightwave information and power transfer (SLIPT). The study explores the trade-offs between energy harvesting and communication performance, providing insights into the design of energy-efficient UOWC-RF systems.",
+  //  abstract: "This paper investigates the energy efficiency of underwater optical wireless communication (UOWC) systems integrated with simultaneous lightwave information and power transfer (SLIPT). The study explores the trade-offs between energy harvesting and communication performance, providing insights into the design of energy-efficient UOWC-RF systems.",
   },
   {
     title: "Enhanced Physical Layer Security for Wireless Systems with Non-Diagonal IRS",
@@ -185,7 +185,7 @@ const personalData = {
     journal: "2023 IEEE International Conference on Advanced Networks and Telecommunication Systems (ANTS)",
     year: "2023",
     doi: "10.1109/ANTS.2023.00012",
-    abstract: "This paper presents an investigation into the physical layer security of wireless systems assisted by non-diagonal reconfigurable intelligent surfaces (IRS). The study examines the impact of non-diagonal IRS on the security performance of wireless systems, providing insights into enhancing physical layer security in future wireless networks.",
+   // abstract: "This paper presents an investigation into the physical layer security of wireless systems assisted by non-diagonal reconfigurable intelligent surfaces (IRS). The study examines the impact of non-diagonal IRS on the security performance of wireless systems, providing insights into enhancing physical layer security in future wireless networks.",
   },
   {
     title: "Fairness-Driven TDMA with Joint Phase and Beamforming Optimization for ND-IRS Assisted MU-MISO Communication Systems",
@@ -195,7 +195,7 @@ const personalData = {
     article: "102587",
     year: "2025",
     doi: "10.1016/j.phycom.2025.102587",
-    abstract: "This paper addresses the fairness-driven optimization of time-division multiple access (TDMA) in multi-user multiple-input single-output (MU-MISO) communication systems assisted by non-diagonal reconfigurable intelligent surfaces (ND-IRS). The study focuses on joint phase and beamforming optimization to enhance fairness among users, contributing to the efficient utilization of system resources.",
+//    abstract: "This paper addresses the fairness-driven optimization of time-division multiple access (TDMA) in multi-user multiple-input single-output (MU-MISO) communication systems assisted by non-diagonal reconfigurable intelligent surfaces (ND-IRS). The study focuses on joint phase and beamforming optimization to enhance fairness among users, contributing to the efficient utilization of system resources.",
   },
   {
     title: "Fairness Driven Joint Phase and PAC Optimization for NOMA Transmission with D/ND-IRS",
@@ -203,7 +203,7 @@ const personalData = {
     journal: "IEEE Transactions on Vehicular Technology",
     year: "2025",
     doi: "10.1109/TVT.2025.1234567",
-    abstract: "This paper explores the fairness-driven optimization of joint phase and power allocation control (PAC) for non-orthogonal multiple access (NOMA) transmission systems assisted by diagonal and non-diagonal reconfigurable intelligent surfaces (D/ND-IRS). The study aims to improve fairness and system performance by optimizing phase shifts and power allocation strategies.",
+//    abstract: "This paper explores the fairness-driven optimization of joint phase and power allocation control (PAC) for non-orthogonal multiple access (NOMA) transmission systems assisted by diagonal and non-diagonal reconfigurable intelligent surfaces (D/ND-IRS). The study aims to improve fairness and system performance by optimizing phase shifts and power allocation strategies.",
   },
     {
   title: "Fairness-Driven Optimization for NOMA-UWOC Systems With Energy Harvesting Requirements",
@@ -211,7 +211,7 @@ const personalData = {
   journal: "IEEE Journal of Oceanic Engineering",
   year: "2025",
   doi: "10.1109/JOE.2025.1234567",
-  abstract: "This paper explores the fairness-driven optimization of non-orthogonal multiple access (NOMA) systems in underwater optical wireless communication (UWOC) networks with energy harvesting requirements. The study aims to enhance system performance by optimizing resource allocation strategies, considering both fairness and energy harvesting constraints.",
+  //abstract: "This paper explores the fairness-driven optimization of non-orthogonal multiple access (NOMA) systems in underwater optical wireless communication (UWOC) networks with energy harvesting requirements. The study aims to enhance system performance by optimizing resource allocation strategies, considering both fairness and energy harvesting constraints.",
 },
 {
   title: "RESNET-50 Based Pest Identification in Plants",
@@ -219,7 +219,7 @@ const personalData = {
   Conference: "2024 International Conference on Intelligent Systems and Advanced Computing (ISAAC)",
   year: "2024",
   doi: "10.1109/ISAAC.2024.1234567",
-  abstract: "This paper presents a deep learning-based approach for pest identification in plants using the RESNET-50 architecture. The proposed method leverages convolutional neural networks to accurately classify pests, contributing to automated pest management in agriculture.",
+ // abstract: "This paper presents a deep learning-based approach for pest identification in plants using the RESNET-50 architecture. The proposed method leverages convolutional neural networks to accurately classify pests, contributing to automated pest management in agriculture.",
 },
 
    {
