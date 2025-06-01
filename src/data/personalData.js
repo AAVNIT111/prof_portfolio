@@ -115,14 +115,7 @@ const personalData = {
       doi: "10.1109/TCOMM.2019.2899866",
       abstract: "Impact factor: 5.6 - 5.9. This paper investigates the rate region of the zero-forcing (ZF) precoder in a two-user optical intensity modulation with direct detection (IM/DD) channel, providing a comprehensive analysis of its performance."
     },
-    {
-     title: "Strategic Analysis of Uplink URLLC Traffic Impact on eMBB Efficiency in Next-Generation 5G Networks",
-  authors: "A. Dogra, S. K. Singh, A. Agarwal",
-  journal: "2024 Second International Conference on Computational and Characterization Techniques (ICCT)",
-  year: "2024",
-  doi: "10.1109/ICCT.2024.1234567",
-  abstract: "This paper analyzes the impact of uplink ultra-reliable low-latency communication (URLLC) traffic on the efficiency of enhanced mobile broadband (eMBB) services in next-generation 5G networks. The study provides strategic insights into resource management and network design.",
-},
+  
 {
   title: "Transmitter Design and AE–AR Region Characterization for NOMA-SLIPT UWOC Systems with Uniformly Distributed Message and Imp-SIC",
   authors: "A. Agarwal",
@@ -227,7 +220,54 @@ const personalData = {
   year: "2024",
   doi: "10.1109/ISAAC.2024.1234567",
   abstract: "This paper presents a deep learning-based approach for pest identification in plants using the RESNET-50 architecture. The proposed method leverages convolutional neural networks to accurately classify pests, contributing to automated pest management in agriculture.",
-}, 
+},
+
+    {
+  "title": "Dual Mode Modulation Classification Using Convolution Neural Network (Accepted)", 
+  "authors": "Dr. Amit Agarwal",
+  "conference": "MAC-2025",
+  "institution": "MANIT, Bhopal",
+  "type": "Conference",
+  "indexing": "Scopus",
+  "year": "2025"
+},
+{
+  "title": "Application of OTFS Modulation in Autonomous Vehicle Driving Systems for 6G Wireless Communication",
+  "authors": "Dr. Amit Agarwal, Gugulothu Balakrishna, Sourabh Tiwari",
+  "conference": "PCEMS-2024",
+  "institution": "VNIT, Nagpur",
+  "type": "Conference",
+  "indexing": "Scopus",
+  "year": "2024"
+},
+{
+  "title": "Performance Analysis of Integrated Sensing and Communication for Smart Transportation using Roadside Access Points",
+  "authors": "Dr. Amit Agarwal, Gugulothu Balakrishna, Arvikar Sayali Deepak",
+  "conference": "AIDCCSP-2024",
+  "institution": "NIT, Hamirpur",
+  "type": "Conference",
+  "indexing": "Scopus",
+  "year": "2024"
+},
+{
+  "title": "Implementation of AODV in VANETs",
+  "authors": "Dr. Amit Agarwal, Abhishek Paithankar, Peduri Nigamanvesh, Kethavath Devi Priya",
+  "conference": "AIDCCSP-2024",
+  "institution": "NIT, Hamirpur",
+  "type": "Conference",
+  "indexing": "Scopus",
+  "year": "2024"
+},
+{
+  "title": "Comparison of AODV and DSDV Routing Protocols for Vehicular Ad-hoc Networks (Accepted)",
+  "authors": "Abhishek Paithankar, Peduri Nigamanvesh, Kethavath Devi Priya, Dr. Amit Agarwal",
+  "conference": "3rd International Conference on Microwave, Antenna and Communication",
+  "type": "Conference",
+  "indexing": "Scopus",
+  "month": "June",
+  "year": "2025"
+},
+
    
   ],
 
