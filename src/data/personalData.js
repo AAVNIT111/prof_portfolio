@@ -92,104 +92,8 @@ const personalData = {
     pages: "4168–4194",
     year: "2017",
     doi: "10.1109/JLT.2017.2753662"
-  },
-  {
-    title: "Rate Region of the ZF Precoder in a 2 × 2 Multiuser Optical IM/DD Channel",
-    authors: "A. Agarwal, S. K. Mohammed",
-    journal: "IEEE Transactions on Communications",
-    volume: "67",
-    issue: "6",
-    pages: "3936–3953",
-    year: "2019",
-    doi: "10.1109/TCOMM.2019.2899866"
-  },
-  {
-    title: "Communication Systems with Amplitude Detection: An Asymptotic Approach",
-    authors: "A. Agarwal, C. Psomas, I. Krikidis",
-    journal: "IEEE Internet of Things Journal",
-    volume: "9",
-    issue: "19",
-    pages: "18319–18332",
-    year: "2022",
-    doi: "10.1109/JIOT.2022.3158947"
-  },
-  {
-    title: "Impact of Underlaid Multi-antenna D2D on Cellular Downlink in Massive MIMO Systems",
-    authors: "A. Agarwal, S. Mukherjee, S. K. Mohammed",
-    journal: "IEEE Conference Publication",
-    year: "2018",
-    doi: "10.1109/NCC.2018.8599981"
-  },
-  {
-    title: "Energy-Efficient UOWC-RF Systems with SLIPT",
-    authors: "A. Agarwal, K. Singh",
-    journal: "Transactions on Emerging Telecommunications Technologies",
-    volume: "35",
-    issue: "1",
-    article: "e4889",
-    year: "2024",
-    doi: "10.1002/ett.4889"
-  },
-  {
-    title: "Enhanced Physical Layer Security for Wireless Systems with Non-Diagonal IRS",
-    authors: "A. Agarwal, K. Singh",
-    journal: "2023 IEEE International Conference on Advanced Networks and Telecommunication Systems (ANTS)",
-    year: "2023",
-    doi: "10.1109/ANTS.2023.00012"
-  },
-  {
-    title: "Fairness-Driven TDMA with Joint Phase and Beamforming Optimization for ND-IRS Assisted MU-MISO Communication Systems",
-    authors: "A. Agarwal",
-    journal: "Physical Communication",
-    volume: "69",
-    article: "102587",
-    year: "2025",
-    doi: "10.1016/j.phycom.2025.102587"
-  },
-  {
-    title: "Fairness Driven Joint Phase and PAC Optimization for NOMA Transmission with D/ND-IRS",
-    authors: "A. Agarwal, K. Singh",
-    journal: "IEEE Transactions on Vehicular Technology",
-    year: "2025",
-    doi: "10.1109/TVT.2025.1234567"
-  },
-  {
-    title: "Fairness-Driven Optimization for NOMA-UWOC Systems With Energy Harvesting Requirements",
-    authors: "A. Agarwal, I. Krikidis",
-    journal: "IEEE Journal of Oceanic Engineering",
-    year: "2025",
-    doi: "10.1109/JOE.2025.1234567"
-  },
-  {
-    title: "RESNET-50 Based Pest Identification in Plants",
-    authors: "N. Negi, S. K. Singh, A. Agarwal",
-    journal: "2024 International Conference on Intelligent Systems and Advanced Computing (ISAAC)",
-    year: "2024",
-    doi: "10.1109/ISAAC.2024.1234567"
-  },
-  {
-    title: "Amplitude Detection over Generalized Fading Models: An Asymptotic Approach",
-    authors: "A. Agarwal, C. Psomas, I. Krikidis",
-    journal: "European Signal Processing Conference (EUSIPCO)",
-    year: "2022"
-  },
-  {
-    title: "Strategic Analysis of Uplink URLLC Traffic Impact on eMBB Efficiency in Next-Generation 5G Networks",
-    authors: "A. Dogra, S. K. Singh, A. Agarwal",
-    journal: "2024 Second International Conference on Computational and Characterization Techniques (ICCT)",
-    year: "2024",
-    doi: "10.1109/ICCT.2024.1234567"
-  },
-  {
-    title: "Transmitter Design and AE–AR Region Characterization for NOMA-SLIPT UWOC Systems with Uniformly Distributed Message and Imp-SIC",
-    authors: "A. Agarwal",
-    journal: "Physical Communication",
-    volume: "64",
-    article: "102317",
-    year: "2024",
-    doi: "10.1016/j.phycom.2024.102317"
   }
-   
+
 ],
 
 
@@ -208,7 +112,7 @@ const personalData = {
       // year: "2022",
       // category: "Early Career Achievement",
       // description: "Awarded for innovative work in healthcare machine learning applications."
-    }
+    },
     
   ],
   
@@ -267,7 +171,7 @@ const personalData = {
       role: "Principal Investigator",
 
       // link: "https://example.com/project1"
-    }
+    },
    
   ]
 };
