@@ -232,7 +232,7 @@ const personalData = {
   year: "2025"
 },
 {
-  title: "Application of OTFS Modulation in Autonomous Vehicle Driving Systems for 6G Wireless Communication",
+  title: "Application of OTFS Modulation in Autonomous Vehicle Driving Systems for 6G Wireless Communication (yet to publish)",
   authors: "Gugulothu Balakrishna, Sourabh Tiwari, Amit Agarwal, ",
   Conference: "PCEMS-2024",
   Institution: "VNIT, Nagpur",
@@ -241,7 +241,7 @@ const personalData = {
   year: "2024"
 },
 {
-  title: "Performance Analysis of Integrated Sensing and Communication for Smart Transportation using Roadside Access Points",
+  title: "Performance Analysis of Integrated Sensing and Communication for Smart Transportation using Roadside Access Points (yet to publish)",
   authors: "Gugulothu Balakrishna, Arvikar Sayali Deepak, Amit Agarwal",
   Conference: "AIDCCSP-2024",
   Institution: "NIT, Hamirpur",
@@ -250,7 +250,7 @@ const personalData = {
   year: "2024"
 },
 {
-  title: "Implementation of AODV in VANETs",
+  title: "Implementation of AODV in VANETs (yet to publish) ",
   authors: "Abhishek Paithankar, Peduri Nigamanvesh, Kethavath Devi Priya, Amit Agarwal",
   Conference: "AIDCCSP-2024",
   Institution: "NIT, Hamirpur",
@@ -268,7 +268,7 @@ const personalData = {
   year: "2025"
 },
 {
-  title: "UAV Assisted Secrecy Analysis for Future Wireless Communication",
+  title: "UAV Assisted Secrecy Analysis for Future Wireless Communication (yet to publish)",
   authors: "Girish, Dr. Amit Agarwal",
   Conference: "PCEMS 2024",
   Institution: "VNIT, Nagpur",
@@ -280,7 +280,7 @@ const personalData = {
 
 
 {
-  title: "Physiological Signal Mapping: PPG-TO-ECG Conversion using BiLSTM",
+  title: "Physiological Signal Mapping: PPG-TO-ECG Conversion using BiLSTM (yet to publish)",
   authors: "Madhu Sri Gannena, Pranav Unkal, Dr. Amit Agarwal, Dr. Sandeep Kumar Singh",
   Conference: "PCEMS 2024",
   Institution: "VNIT, Nagpur",
