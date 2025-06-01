@@ -164,7 +164,7 @@ const personalData = {
   {
     title: "Strategic Analysis of Uplink URLLC Traffic Impact on eMBB Efficiency in Next-Generation 5G Networks",
     authors: "A. Dogra, S. K. Singh, A. Agarwal",
-
+  },
     {
   title: "Fairness-Driven Optimization for NOMA-UWOC Systems With Energy Harvesting Requirements",
   authors: "A. Agarwal, I. Krikidis",
