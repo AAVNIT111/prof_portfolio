@@ -81,7 +81,13 @@ const personalData = {
       ]
     }
   ],
-   // Publications
+//Students
+  students:[
+abc
+
+    ]
+  
+   // Publication
   publications: [
     {
       title: "Communication Systems with Amplitude Detection: An Asymptotic Approach",
