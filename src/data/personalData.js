@@ -81,12 +81,7 @@ const personalData = {
       ]
     }
   ],
-//Students
-  students:[
-abc
 
-    ]
-  
    // Publication
   publications: [
     {
