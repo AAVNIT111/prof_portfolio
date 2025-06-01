@@ -161,10 +161,6 @@ const personalData = {
     doi: "10.1109/TVT.2025.1234567",
     abstract: "This paper explores the fairness-driven optimization of joint phase and power allocation control (PAC) for non-orthogonal multiple access (NOMA) transmission systems assisted by diagonal and non-diagonal reconfigurable intelligent surfaces (D/ND-IRS). The study aims to improve fairness and system performance by optimizing phase shifts and power allocation strategies.",
   },
-  {
-    title: "Strategic Analysis of Uplink URLLC Traffic Impact on eMBB Efficiency in Next-Generation 5G Networks",
-    authors: "A. Dogra, S. K. Singh, A. Agarwal",
-  },
     {
   title: "Fairness-Driven Optimization for NOMA-UWOC Systems With Energy Harvesting Requirements",
   authors: "A. Agarwal, I. Krikidis",
@@ -213,14 +209,6 @@ const personalData = {
   year: "2025",
   doi: "10.1109/JOE.2025.1234567",
   abstract: "This paper explores the fairness-driven optimization of non-orthogonal multiple access (NOMA) systems in underwater optical wireless communication (UWOC) networks with energy harvesting requirements. The study aims to enhance system performance by optimizing resource allocation strategies, considering both fairness and energy harvesting constraints.",
-},
-{
-  title: "RESNET-50 Based Pest Identification in Plants",
-  authors: "N. Negi, S. K. Singh, A. Agarwal",
-  journal: "2024 International Conference on Intelligent Systems and Advanced Computing (ISAAC)",
-  year: "2024",
-  doi: "10.1109/ISAAC.2024.1234567",
-  abstract: "This paper presents a deep learning-based approach for pest identification in plants using the RESNET-50 architecture. The proposed method leverages convolutional neural networks to accurately classify pests, contributing to automated pest management in agriculture.",
 },
 {
   title: "Amplitude Detection over Generalized Fading Models: An Asymptotic Approach",
