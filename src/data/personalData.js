@@ -113,7 +113,7 @@ const personalData = {
       doi: "10.1109/TCOMM.2019.2899866",
       abstract: "Impact factor: 5.6 - 5.9. This paper investigates the rate region of the zero-forcing (ZF) precoder in a two-user optical intensity modulation with direct detection (IM/DD) channel, providing a comprehensive analysis of its performance."
     },
-
+    {
      title: "Strategic Analysis of Uplink URLLC Traffic Impact on eMBB Efficiency in Next-Generation 5G Networks",
   authors: "A. Dogra, S. K. Singh, A. Agarwal",
   journal: "2024 Second International Conference on Computational and Characterization Techniques (ICCT)",
