@@ -38,7 +38,7 @@ const personalData = {
       year: "2011",
       
       // description: "Minor in Mathematics"
-    },
+    }
   ],
     // Course Materials
   courseMaterials: [
@@ -82,20 +82,29 @@ const personalData = {
     }
   ],
    // Publications
- publications: [
-  {
-    title: "Achievable Rate Region of the Zero-Forcing Precoder in a 2 × 2 MU-MISO Broadcast VLC Channel with Per-LED Peak Power Constraint and Dimming Control",
-    authors: "A. Agarwal, S. K. Mohammed",
-    journal: "Journal of Lightwave Technology",
-    volume: "35",
-    issue: "19",
-    pages: "4168–4194",
-    year: "2017",
-    doi: "10.1109/JLT.2017.2753662"
-  },
-
-],
-
+  publications: [
+    {
+      title: "Communication Systems with Amplitude Detection: An Asymptotic Approach",
+      authors: "A. Agarwal, C. Psomas, and I. Krikidis",
+      journal: "IEEE Internet of Things Journal",
+      // volume: "4",
+      issue: " early access",
+      year: "2022",
+      doi: "10.1109/JIOT.2022.3158947",
+      abstract: "Impact factor: 9.936. This paper presents an asymptotic analysis of communication systems that utilize amplitude detection, providing insights into their performance under various conditions."
+    },
+    {
+      title: "Rate Region of the ZF Precoder in a 2 X 2 Multiuser Optical IM/DD Channel",
+      authors: "A. Agarwal and S. K. Mohammed",
+      journal: "IEEE Transaction on Communications",
+      volume: "67",
+      // issue: "3",
+      year: "2019",
+      doi: "10.1109/TCOMM.2019.2899866",
+      abstract: "Impact factor: 5.6 - 5.9. This paper investigates the rate region of the zero-forcing (ZF) precoder in a two-user optical intensity modulation with direct detection (IM/DD) channel, providing a comprehensive analysis of its performance."
+    },
+   
+  ],
 
   // Awards and Honors
   awards: [
@@ -142,7 +151,7 @@ const personalData = {
     {
       title: "Information theoretical aspct of wiress communication systems",
       // description: "--"
-    },
+    }
   ],
   
   // Patents
