@@ -216,56 +216,56 @@ const personalData = {
 {
   title: "RESNET-50 Based Pest Identification in Plants",
   authors: "N. Negi, S. K. Singh, A. Agarwal",
-  journal: "2024 International Conference on Intelligent Systems and Advanced Computing (ISAAC)",
+  Conference: "2024 International Conference on Intelligent Systems and Advanced Computing (ISAAC)",
   year: "2024",
   doi: "10.1109/ISAAC.2024.1234567",
   abstract: "This paper presents a deep learning-based approach for pest identification in plants using the RESNET-50 architecture. The proposed method leverages convolutional neural networks to accurately classify pests, contributing to automated pest management in agriculture.",
 },
 
-    {
-  "title": "Dual Mode Modulation Classification Using Convolution Neural Network (Accepted)", 
-  "authors": "Dr. Amit Agarwal",
-  "conference": "MAC-2025",
-  "institution": "MANIT, Bhopal",
-  "type": "Conference",
-  "indexing": "Scopus",
-  "year": "2025"
+   {
+  title: "Dual Mode Modulation Classification Using Convolution Neural Network (Accepted)",
+  authors: "Dr. Amit Agarwal",
+  Conference: "MAC-2025",
+  Institution: "MANIT, Bhopal",
+  type: "Conference",
+  indexing: "Scopus",
+  year: "2025"
 },
 {
-  "title": "Application of OTFS Modulation in Autonomous Vehicle Driving Systems for 6G Wireless Communication",
-  "authors": "Dr. Amit Agarwal, Gugulothu Balakrishna, Sourabh Tiwari",
-  "conference": "PCEMS-2024",
-  "institution": "VNIT, Nagpur",
-  "type": "Conference",
-  "indexing": "Scopus",
-  "year": "2024"
+  title: "Application of OTFS Modulation in Autonomous Vehicle Driving Systems for 6G Wireless Communication",
+  authors: "Dr. Amit Agarwal, Gugulothu Balakrishna, Sourabh Tiwari",
+  Conference: "PCEMS-2024",
+  Institution: "VNIT, Nagpur",
+  type: "Conference",
+  indexing: "Scopus",
+  year: "2024"
 },
 {
-  "title": "Performance Analysis of Integrated Sensing and Communication for Smart Transportation using Roadside Access Points",
-  "authors": "Dr. Amit Agarwal, Gugulothu Balakrishna, Arvikar Sayali Deepak",
-  "conference": "AIDCCSP-2024",
-  "institution": "NIT, Hamirpur",
-  "type": "Conference",
-  "indexing": "Scopus",
-  "year": "2024"
+  title: "Performance Analysis of Integrated Sensing and Communication for Smart Transportation using Roadside Access Points",
+  authors: "Dr. Amit Agarwal, Gugulothu Balakrishna, Arvikar Sayali Deepak",
+  Conference: "AIDCCSP-2024",
+  Institution: "NIT, Hamirpur",
+  type: "Conference",
+  indexing: "Scopus",
+  year: "2024"
 },
 {
-  "title": "Implementation of AODV in VANETs",
-  "authors": "Dr. Amit Agarwal, Abhishek Paithankar, Peduri Nigamanvesh, Kethavath Devi Priya",
-  "conference": "AIDCCSP-2024",
-  "institution": "NIT, Hamirpur",
-  "type": "Conference",
-  "indexing": "Scopus",
-  "year": "2024"
+  title: "Implementation of AODV in VANETs",
+  authors: "Dr. Amit Agarwal, Abhishek Paithankar, Peduri Nigamanvesh, Kethavath Devi Priya",
+  Conference: "AIDCCSP-2024",
+  Institution: "NIT, Hamirpur",
+  type: "Conference",
+  indexing: "Scopus",
+  year: "2024"
 },
 {
-  "title": "Comparison of AODV and DSDV Routing Protocols for Vehicular Ad-hoc Networks (Accepted)",
-  "authors": "Abhishek Paithankar, Peduri Nigamanvesh, Kethavath Devi Priya, Dr. Amit Agarwal",
-  "conference": "3rd International Conference on Microwave, Antenna and Communication",
-  "type": "Conference",
-  "indexing": "Scopus",
-  "month": "June",
-  "year": "2025"
+  title: "Comparison of AODV and DSDV Routing Protocols for Vehicular Ad-hoc Networks (Accepted)",
+  authors: "Abhishek Paithankar, Peduri Nigamanvesh, Kethavath Devi Priya, Dr. Amit Agarwal",
+  Conference: "3rd International Conference on Microwave, Antenna and Communication",
+  type: "Conference",
+  indexing: "Scopus",
+  month: "June",
+  year: "2025"
 },
 
    
