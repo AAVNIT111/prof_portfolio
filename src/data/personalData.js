@@ -208,7 +208,7 @@ const personalData = {
       // year: "2022",
       // category: "Early Career Achievement",
       // description: "Awarded for innovative work in healthcare machine learning applications."
-    },
+    }
     
   ],
   
@@ -267,7 +267,7 @@ const personalData = {
       role: "Principal Investigator",
 
       // link: "https://example.com/project1"
-    },
+    }
    
   ]
 };
