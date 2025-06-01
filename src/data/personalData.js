@@ -43,8 +43,8 @@ const personalData = {
     // Course Materials
   courseMaterials: [
     {
-      title: "Introduction to Machine Learning in Healthcare",
-      description: "A comprehensive course covering the fundamentals of ML applications in healthcare",
+      title: "Digital Communication",
+    //  description: "A comprehensive course covering the fundamentals of ML applications in healthcare",
       thumbnail: "https://images.pexels.com/photos/4226140/pexels-photo-4226140.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
       materials: [
         {
@@ -62,8 +62,8 @@ const personalData = {
       ]
     },
     {
-      title: "Advanced Neural Networks",
-      description: "Deep dive into neural network architectures and their applications",
+      title: "Wireless Communications",
+     // description: "Deep dive into neural network architectures and their applications",
       thumbnail: "https://images.pexels.com/photos/8386440/pexels-photo-8386440.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
       materials: [
         {
