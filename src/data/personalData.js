@@ -233,7 +233,7 @@ const personalData = {
 },
 {
   title: "Application of OTFS Modulation in Autonomous Vehicle Driving Systems for 6G Wireless Communication",
-  authors: "Dr. Amit Agarwal, Gugulothu Balakrishna, Sourabh Tiwari",
+  authors: "Gugulothu Balakrishna, Sourabh Tiwari, Amit Agarwal, ",
   Conference: "PCEMS-2024",
   Institution: "VNIT, Nagpur",
   type: "Conference",
@@ -242,7 +242,7 @@ const personalData = {
 },
 {
   title: "Performance Analysis of Integrated Sensing and Communication for Smart Transportation using Roadside Access Points",
-  authors: "Dr. Amit Agarwal, Gugulothu Balakrishna, Arvikar Sayali Deepak",
+  authors: "Gugulothu Balakrishna, Arvikar Sayali Deepak, Amit Agarwal",
   Conference: "AIDCCSP-2024",
   Institution: "NIT, Hamirpur",
   type: "Conference",
@@ -251,7 +251,7 @@ const personalData = {
 },
 {
   title: "Implementation of AODV in VANETs",
-  authors: "Dr. Amit Agarwal, Abhishek Paithankar, Peduri Nigamanvesh, Kethavath Devi Priya",
+  authors: "Abhishek Paithankar, Peduri Nigamanvesh, Kethavath Devi Priya, Amit Agarwal",
   Conference: "AIDCCSP-2024",
   Institution: "NIT, Hamirpur",
   type: "Conference",
