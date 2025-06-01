@@ -277,6 +277,19 @@ const personalData = {
   month: "November",
   year: "2024"
 },
+
+
+{
+  title: "Physiological Signal Mapping: PPG-TO-ECG Conversion using BiLSTM",
+  authors: "Madhu Sri Gannena, Pranav Unkal, Dr. Amit Agarwal, Dr. Sandeep Kumar Singh",
+  Conference: "PCEMS 2024",
+  Institution: "VNIT, Nagpur",
+  type: "Conference",
+  indexing: "Scopus",
+  month: "November",
+  year: "2024"
+},
+
    
   ],
 
