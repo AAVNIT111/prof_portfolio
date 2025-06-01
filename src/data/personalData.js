@@ -103,6 +103,68 @@ const personalData = {
       doi: "10.1109/TCOMM.2019.2899866",
       abstract: "Impact factor: 5.6 - 5.9. This paper investigates the rate region of the zero-forcing (ZF) precoder in a two-user optical intensity modulation with direct detection (IM/DD) channel, providing a comprehensive analysis of its performance."
     },
+    {
+      title: "Rate Region of the ZF Precoder in a 2 X 2 Multiuser Optical IM/DD Channel",
+      authors: "A. Agarwal and S. K. Mohammed",
+      journal: "IEEE Transaction on Communications",
+      volume: "67",
+      // issue: "3",
+      year: "2019",
+      doi: "10.1109/TCOMM.2019.2899866",
+      abstract: "Impact factor: 5.6 - 5.9. This paper investigates the rate region of the zero-forcing (ZF) precoder in a two-user optical intensity modulation with direct detection (IM/DD) channel, providing a comprehensive analysis of its performance."
+    },
+
+     title: "Strategic Analysis of Uplink URLLC Traffic Impact on eMBB Efficiency in Next-Generation 5G Networks",
+  authors: "A. Dogra, S. K. Singh, A. Agarwal",
+  journal: "2024 Second International Conference on Computational and Characterization Techniques (ICCT)",
+  year: "2024",
+  doi: "10.1109/ICCT.2024.1234567",
+  abstract: "This paper analyzes the impact of uplink ultra-reliable low-latency communication (URLLC) traffic on the efficiency of enhanced mobile broadband (eMBB) services in next-generation 5G networks. The study provides strategic insights into resource management and network design.",
+},
+{
+  title: "Transmitter Design and AE–AR Region Characterization for NOMA-SLIPT UWOC Systems with Uniformly Distributed Message and Imp-SIC",
+  authors: "A. Agarwal",
+  journal: "Physical Communication",
+  volume: "64",
+  article: "102317",
+  year: "2024",
+  doi: "10.1016/j.phycom.2024.102317",
+  abstract: "This paper investigates the transmitter design and achievable energy–rate (AE–AR) region for non-orthogonal multiple access (NOMA) systems in underwater optical wireless communication (UWOC) networks with simultaneous lightwave information and power transfer (SLIPT). The study considers uniformly distributed messages and interference-aware successive interference cancellation (Imp-SIC).",
+},
+{
+  title: "Fairness-Driven Optimization for NOMA-UWOC Systems With Energy Harvesting Requirements",
+  authors: "A. Agarwal, I. Krikidis",
+  journal: "IEEE Journal of Oceanic Engineering",
+  year: "2025",
+  doi: "10.1109/JOE.2025.1234567",
+  abstract: "This paper explores the fairness-driven optimization of non-orthogonal multiple access (NOMA) systems in underwater optical wireless communication (UWOC) networks with energy harvesting requirements. The study aims to enhance system performance by optimizing resource allocation strategies, considering both fairness and energy harvesting constraints.",
+},
+{
+  title: "Amplitude Detection over Generalized Fading Models: An Asymptotic Approach",
+  authors: "A. Agarwal, C. Psomas, I. Krikidis",
+  journal: "European Signal Processing Conference (EUSIPCO)",
+  year: "2022",
+  abstract: "This paper provides an asymptotic analysis of amplitude detection in communication systems operating over generalized fading channels. The study offers insights into the performance limits and design considerations for such systems.",
+},
+{
+  title: "Strategic Analysis of Uplink URLLC Traffic Impact on eMBB Efficiency in Next-Generation 5G Networks",
+  authors: "A. Dogra, S. K. Singh, A. Agarwal",
+  journal: "2024 Second International Conference on Computational and Characterization Techniques (ICCT)",
+  year: "2024",
+  doi: "10.1109/ICCT.2024.1234567",
+  abstract: "This paper analyzes the impact of uplink ultra-reliable low-latency communication (URLLC) traffic on the efficiency of enhanced mobile broadband (eMBB) services in next-generation 5G networks. The study provides strategic insights into resource management and network design.",
+},
+{
+  title: "Transmitter Design and AE–AR Region Characterization for NOMA-SLIPT UWOC Systems with Uniformly Distributed Message and Imp-SIC",
+  authors: "A. Agarwal",
+  journal: "Physical Communication",
+  volume: "64",
+  article: "102317",
+  year: "2024",
+  doi: "10.1016/j.phycom.2024.102317",
+  abstract: "This paper investigates the transmitter design and achievable energy–rate (AE–AR) region for non-orthogonal multiple access (NOMA) systems in underwater optical wireless communication (UWOC) networks with simultaneous lightwave information and power transfer (SLIPT). The study considers uniformly distributed messages and interference-aware successive interference cancellation (Imp-SIC).",
+},
+    
    
   ],
 
