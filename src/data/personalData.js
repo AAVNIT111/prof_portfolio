@@ -92,7 +92,7 @@ const personalData = {
       issue: " early access",
       year: "2022",
       doi: "10.1109/JIOT.2022.3158947",
-      abstract: "Impact factor: 9.936. This paper presents an asymptotic analysis of communication systems that utilize amplitude detection, providing insights into their performance under various conditions."
+ //     abstract: "Impact factor: 9.936. This paper presents an asymptotic analysis of communication systems that utilize amplitude detection, providing insights into their performance under various conditions."
     },
    {
     title: "Achievable Rate Region of the Zero-Forcing Precoder in a 2 × 2 MU-MISO Broadcast VLC Channel with Per-LED Peak Power Constraint and Dimming Control",
@@ -103,7 +103,7 @@ const personalData = {
     pages: "4168–4194",
     year: "2017",
     doi: "10.1109/JLT.2017.2753662",
-    abstract: "This paper investigates the achievable rate region of the zero-forcing (ZF) precoder in a 2 × 2 multi-user multiple-input-single-output (MU-MISO) broadcast visible light communication (VLC) channel. The study considers per-LED peak and average power constraints, with the average optical power emitted from each LED being fixed for constant lighting but controllable for dimming. The proposed rate region boundary is analytically characterized and shown to be Pareto-optimal. The largest rate region is achieved when the fixed per-LED average optical power is half of the allowed per-LED peak optical power. A novel transceiver architecture is proposed, simplifying the complexity by separating the channel encoder and dimming control. A case study of an indoor VLC channel reveals that achievable information rates are sensitive to the placement of the LEDs and photo diodes (PDs), with the concept of 'coverage zones' introduced to define areas within a room where the reduction in information rates remains within an acceptable tolerance limit.",
+    // abstract: "This paper investigates the achievable rate region of the zero-forcing (ZF) precoder in a 2 × 2 multi-user multiple-input-single-output (MU-MISO) broadcast visible light communication (VLC) channel. The study considers per-LED peak and average power constraints, with the average optical power emitted from each LED being fixed for constant lighting but controllable for dimming. The proposed rate region boundary is analytically characterized and shown to be Pareto-optimal. The largest rate region is achieved when the fixed per-LED average optical power is half of the allowed per-LED peak optical power. A novel transceiver architecture is proposed, simplifying the complexity by separating the channel encoder and dimming control. A case study of an indoor VLC channel reveals that achievable information rates are sensitive to the placement of the LEDs and photo diodes (PDs), with the concept of 'coverage zones' introduced to define areas within a room where the reduction in information rates remains within an acceptable tolerance limit.",
   },
     {
       title: "Rate Region of the ZF Precoder in a 2 X 2 Multiuser Optical IM/DD Channel",
