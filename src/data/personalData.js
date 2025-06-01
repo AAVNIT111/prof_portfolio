@@ -189,7 +189,7 @@ const personalData = {
     year: "2024",
     doi: "10.1016/j.phycom.2024.102317"
   },
-]
+],
 
 
   // Awards and Honors
