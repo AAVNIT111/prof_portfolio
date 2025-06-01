@@ -267,7 +267,16 @@ const personalData = {
   month: "June",
   year: "2025"
 },
-
+{
+  title: "UAV Assisted Secrecy Analysis for Future Wireless Communication",
+  authors: "Girish, Dr. Amit Agarwal",
+  Conference: "PCEMS 2024",
+  Institution: "VNIT, Nagpur",
+  type: "Conference",
+  indexing: "Scopus",
+  month: "November",
+  year: "2024"
+},
    
   ],
 
