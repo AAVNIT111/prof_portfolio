@@ -336,7 +336,7 @@ const personalData = {
       // description: "--"
     },
     {
-      title: "Information theoretical aspct of wiress communication systems",
+      title: "Information theoretical aspects of wiress communication systems",
       // description: "--"
     }
   ],
