@@ -6,7 +6,7 @@ const personalData = {
   name: "Dr. Amit Agarwal",
   jobTitle: "Assistant Professor",
   photo: "https://vnit.ac.in/engineering/ece/wp-content/uploads/2023/06/Amit-Agrawal.jpg", // Replace with your photo URL
-  bio: "I am an Assistant Professor in the Department of Electronics and Communication Engineering at VNIT Nagpur, India. I received my B.Tech from NIT Kurukshetra in 2011, and my M.Tech and Ph.D. from IIT Delhi in 2014 and 2019, respectively. My research interests include visible light communication, wireless communication theory, 5G/B5G systems, and cooperative networks. I have previously worked as an Assistant Professor at LNMIIT Jaipur and as a Post-Doctoral Researcher at the University of Cyprus, where I was part of the EU project PRIME.",
+  bio: "I am an Assistant Professor in the Department of Electronics and Communication Engineering at VNIT Nagpur, India. I received my B.Tech from NIT Kurukshetra, and my M.Tech and Ph.D. from IIT Delhi, respectively. My research interests include visible light communication, wireless communication theory, 5G/B5G systems, Quantum Communication, ML for wireless communications and cooperative networks. I have previously worked as an Assistant Professor at LNMIIT Jaipur and as a Post-Doctoral Researcher at the University of Cyprus, where I was part of the EU project PRIME. I am open to discussions on simplifying academic concepts both from high school to engineering and welcome collaboration on research related to wireless communication, including 5G and beyond. ",
   
   // Contact Information
   contact: {
